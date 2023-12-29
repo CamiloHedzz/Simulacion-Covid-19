@@ -5,3 +5,6 @@
 
 
 ![image](https://github.com/CamiloHedzz/Simulacion-Covid-19/assets/111331587/47f65b24-3553-492b-b286-586c9e6a176e)
+
+![image](https://github.com/CamiloHedzz/Simulacion-Covid-19/assets/111331587/27302166-8716-43c1-9f0a-423c14a1e99e)
+
