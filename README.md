@@ -1,6 +1,10 @@
 # Simulación Covid 19
 El proyecto de simulación COVID-19 desarrollado en JAVA presenta una representación interactiva y dinámica de la propagación del virus mediante la utilización de patrones de diseño clave y una estructura de arquitectura MVC (Modelo-Vista-Controlador). La simulación se lleva a cabo mediante el movimiento de puntos que representan personas, donde la interacción y comportamiento de estos puntos pueden ser configurados a través de paneles de control.
 
+
+![image](https://github.com/CamiloHedzz/Simulacion-Covid-19/assets/111331587/47f65b24-3553-492b-b286-586c9e6a176e)
+
+
 ## Características Principales
 
 ### Lenguaje de Programación JAVA
@@ -18,6 +22,9 @@ El proyecto está escrito en **JAVA**, aprovechando la robustez y versatilidad d
 ### Arquitectura MVC
 
 La simulación se ejecuta en tiempo real, proporcionando una visualización efectiva de cómo la propagación del virus evoluciona a medida que los puntos (personas) interactúan según las configuraciones y parámetros definidos.
+
+
+![image](https://github.com/CamiloHedzz/Simulacion-Covid-19/assets/111331587/27302166-8716-43c1-9f0a-423c14a1e99e)
 
 
 ## Compilación y ejecución
@@ -38,15 +45,3 @@ $ java inicio
 👦 **Juan Esteban Arias Patrón** - [Juanariasp](https://github.com/Juanariasp)
 
 👦 **Juan Camilo Hernández Ibañez** - [CamiloHedzz](https://github.com/CamiloHedzz)
-
-
-![image](https://github.com/CamiloHedzz/Simulacion-Covid-19/assets/111331587/064a6b47-dfce-40c4-9d5d-2361376f2a3a)
-
-
-![image](https://github.com/CamiloHedzz/Simulacion-Covid-19/assets/111331587/e9f281fa-ce12-4891-abb3-2f66dfa1a24c)
-
-
-![image](https://github.com/CamiloHedzz/Simulacion-Covid-19/assets/111331587/47f65b24-3553-492b-b286-586c9e6a176e)
-
-![image](https://github.com/CamiloHedzz/Simulacion-Covid-19/assets/111331587/27302166-8716-43c1-9f0a-423c14a1e99e)
-
